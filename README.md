@@ -6,13 +6,13 @@
 ## Установка
 
 1. Склонируйте репозиторий:
-    '''bash
+    ```bash
     git clone https://github.com/CCCXIV314/test_biushov.git
     cd repo
-    '''
+    ```
 2. Установите необходимые библиотеки:
-    '''bash
+    ```bash
     pip install -r requirements.txt
-    '''
+    ```
 ## Применение
 После установки запустите файл **main.py**.
